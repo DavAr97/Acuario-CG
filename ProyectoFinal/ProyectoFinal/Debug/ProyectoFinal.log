@@ -1,0 +1,29 @@
+﻿  ProyectoFinal.cpp
+F:\Personal\Documentos\GitHub\Acuario-CG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(193,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+F:\Personal\Documentos\GitHub\Acuario-CG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(228,20): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+F:\Personal\Documentos\GitHub\Acuario-CG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(229,20): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+F:\Personal\Documentos\GitHub\Acuario-CG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(230,20): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+F:\Personal\Documentos\GitHub\Acuario-CG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(431,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+F:\Personal\Documentos\GitHub\Acuario-CG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(432,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+F:\Personal\Documentos\GitHub\Acuario-CG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(436,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+F:\Personal\Documentos\GitHub\Acuario-CG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(437,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+F:\Personal\Documentos\GitHub\Acuario-CG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(439,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+F:\Personal\Documentos\GitHub\Acuario-CG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(440,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(etc1_utils.obj)' o en 'F:\Personal\Documentos\GitHub\Acuario-CG\ProyectoFinal\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_DXT.obj)' o en 'F:\Personal\Documentos\GitHub\Acuario-CG\ProyectoFinal\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_helper.obj)' o en 'F:\Personal\Documentos\GitHub\Acuario-CG\ProyectoFinal\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(SOIL2.obj)' o en 'F:\Personal\Documentos\GitHub\Acuario-CG\ProyectoFinal\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  ProyectoFinal.vcxproj -> F:\Personal\Documentos\GitHub\Acuario-CG\ProyectoFinal\Debug\ProyectoFinal.exe
