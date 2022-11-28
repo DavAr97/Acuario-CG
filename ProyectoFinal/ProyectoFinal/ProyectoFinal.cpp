@@ -159,9 +159,10 @@ int main()
 	Shader lightingShader("Shaders/lighting.vs", "Shaders/lighting.frag");
 	Shader lampShader("Shaders/lamp2.vs", "Shaders/lamp2.frag");
 	
+	Model Estrella((char*)"Models/Fishes/Estrella.obj");
 	Model Dori((char*)"Models/Fishes/TropicalFish02.obj");
-
-
+	Model Medusa((char*)"Models/Medusa/medusa.obj");
+	Model Pingui((char*)"Models/Pingui/Pinguino.obj");
 
 
 	// First, set the container's VAO (and VBO)
@@ -310,9 +311,12 @@ int main()
 		glUniformMatrix4fv(projLoc, 1, GL_FALSE, glm::value_ptr(projection)); 
 	    glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		model = glm::mat4(1);
-		model = glm::scale(model, glm::vec3(0.01f,0.01f,0.01f));
+		//model = glm::scale(model, glm::vec3(0.01f,0.01f,0.01f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		Dori.Draw(lampShader);
+		//Dori.Draw(lampShader);
+		//Medusa.Draw(lampShader);
+		//Pingui.Draw(lampShader);
+		Estrella.Draw(lampShader);
 		glBindVertexArray(0);
 
 			
