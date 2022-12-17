@@ -1,0 +1,56 @@
+newmtl Losa:MarmolSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marble.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks AmbientOcclusionMap.png
+Ns 18.00
+newmtl PuertaMedio:Color_000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl PuertaMedio:_DimGray_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grisP.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl PuertaMedio:_Translucent_Glass_Blue_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.29 0.29 0.29
+map_Kd azul.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl PuertaMedio:jean_blue
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd azulChi.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl VidrioEspecular:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Translucent_Resin_Crush_Gray.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks VidrioEspecilar.png
+Ns 18.00

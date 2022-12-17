@@ -1,0 +1,109 @@
+newmtl Vajilla:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.39 0.39 0.39
+Tf 1.00 1.00 1.00
+map_Kd cuchillo512.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks VajillaSpecular.png
+Ns 6.28
+newmtl copa:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vino.jpg
+Ni 1.00
+newmtl copa:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd copaCris.jpg
+Ni 1.00
+newmtl copa:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd copaOrilla.jpg
+Ni 1.00
+newmtl copa:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd copaOrilla2.jpg
+Ni 1.00
+newmtl copa:lambert5SG2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl mesa:fabric34_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd fabric34_.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl mesa1:FITA
+illum 4
+Kd 0.42 0.39 0.34
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl mesa1:Lou_a
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.47 0.47 0.47
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl mesa1:Spalted_timber_04_rev_01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Spalted_timber_04_rev_01.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl mesa1:TECIDO
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TECIDO.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TEL_512.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl silla:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TEL_512.jpg
+Ni 1.00
+newmtl silla:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
